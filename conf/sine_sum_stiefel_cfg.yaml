@@ -42,7 +42,7 @@ hyperparameters:
   mb_size: 1000  # Mini-batch size
   lr: 2e-4  # Input learning rate for ADAM optimizer
   lrg: 2e-3  # Input learning rate for Cayley_ADAM optimizer
-  max_epochs: 10000  # Input max_epoch
+  max_epochs: 90000  # Input max_epoch
   shuffle: True
   recon_loss: srcs.model.metric.MSE
   optimise_U: joint   # options: `joint` for U and `split` for Ux, Uy
