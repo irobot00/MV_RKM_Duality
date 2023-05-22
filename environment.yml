@@ -1,4 +1,4 @@
-name: rrkm_env
+name: rkm_env
 channels:
   - https://repo.anaconda.com/pkgs/free
   - anaconda
